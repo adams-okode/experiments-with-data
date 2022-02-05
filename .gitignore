@@ -1,6 +1,0 @@
-*.pdf
-*.csv
-pf_assistant_v0.1.ipynb
-.ipynb_checkpoints/
-.DS_Store
-.gitignore
